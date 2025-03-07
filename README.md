@@ -17,8 +17,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-card-with-css-grid-and-flexbox-SfshUHtwj7)
+- Live Site URL: [Add live site URL here](https://blogcard-git-main-cyrilprinces-projects.vercel.app/)
 
 ## My process
 
